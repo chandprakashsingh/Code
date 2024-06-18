@@ -1,0 +1,4 @@
+class Config:
+    BIRDEYE_API_KEY = "451846c7a9bc440d933652aba468b9e9"
+    SOL_MINT = "So11111111111111111111111111111111111111112"
+    BASE_URL = "https://public-api.birdeye.so"
